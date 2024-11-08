@@ -1,1 +1,9 @@
 # ICPC
+## ADDTEAM O（logN)
+## START O(1)
+## SUBMIT O(logN)
+## FLUSH  O(NlogN)
+## QUERY_RANKING O(logN)
+## QUERY_SUBMISSION O(logN)
+## FREEZE O(1)
+## SCALL O(NlogN)
